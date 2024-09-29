@@ -1,0 +1,50 @@
+{
+  "views": {
+    "home_view": {
+      "sign_in": "Inciar Sesión",
+      "buy": "Comprar",
+      "play": "Jugar"
+    },
+    "games_view": {
+      "title": "Juegos disponibles",
+      "description": "Entre tú y la grandeza solo hay un click. Elige tu juego y desata el caos."
+    },
+    "game_view": {
+      "subtitle_description": "Descripción",
+      "subtitle_instructions": "Instrucciones",
+      "button_start": "Empezar"
+    },
+    "select_decks_view": {
+      "title": "Barajas disponibles",
+      "description": "A veces, la vida es como un mazo de cartas: ¡hay que jugar con lo que te toca! Así que, elige sabiamente."
+    },
+    "add_decks_community_view": {
+      "title": "Agranda tu mazo",
+      "description": "¡Es hora de agrandar tu mazo! Recuerda: no importa el tamaño, ¡sino cómo lo uses!"
+    },
+    "add_friends_view": {
+      "title": "Agregar jugadores",
+      "description": "¡Es hora de reclutar a tus amigos! Recuerda, cada jugador trae su propio drama… ¡y risas!"
+    },
+    "overview_view": {
+      "title": "Listo para jugar",
+      "description": "Cartas en mano, amigos listos, y risas a la vista. ¡Que empiece el espectáculo!"
+    },
+    "score_board_view": {
+      "title": "Tabla de puntos",
+      "description": "Scoreboard: Donde las risas se miden en puntos y el drama en jugadas épicas."
+    }
+  },
+  "widgets":{
+    "card_game": {
+      "button_play": "Jugar"
+    },
+    "selectionable_deck": {
+      "cards": "Cartas"
+    },
+    "new_friend_item":{
+      "hintText_name": "Nombre",
+      "validator_enter_name": "Ingresar Nombre"
+    }
+  }
+}

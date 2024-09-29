@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "560555670739",
+    "firebase_url": "https://aukantun-b4c72-default-rtdb.firebaseio.com",
+    "project_id": "aukantun-b4c72",
+    "storage_bucket": "aukantun-b4c72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560555670739:android:81acc2db0e516992a0e826",
+        "android_client_info": {
+          "package_name": "com.aukantun.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEeHN9IM0-Ms9nQy1l9FNUIAawQ9Y5rEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560555670739:android:0d86b6ad0d631fd5a0e826",
+        "android_client_info": {
+          "package_name": "com.example.aukantun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEeHN9IM0-Ms9nQy1l9FNUIAawQ9Y5rEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560555670739:android:7458ba063cf96a25a0e826",
+        "android_client_info": {
+          "package_name": "com.example.ejemplo_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEeHN9IM0-Ms9nQy1l9FNUIAawQ9Y5rEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
